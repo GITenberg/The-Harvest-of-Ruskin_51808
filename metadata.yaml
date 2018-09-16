@@ -1,0 +1,26 @@
+_repo: The-Harvest-of-Ruskin_51808
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graham, John W. (John William)
+    alias: Graham, John William
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '47940'
+    url: http://www.gutenberg.org/2009/agents/47940
+description: ''
+gutenberg_issued: '2016-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51808'
+  lccn: '21009247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ruskin, John, 1819-1900'
+- !lcc 'PR'
+- GITenberg
+title: The Harvest of Ruskin
+url: http://www.gutenberg.org/ebooks/51808
